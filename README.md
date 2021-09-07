@@ -18,4 +18,6 @@
 <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img align="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+<br/><br/>
+  
+  Sou estudante de análise e desenvolvimento de sistemas e futuro desenvolvedor full stack 🧑‍💻
